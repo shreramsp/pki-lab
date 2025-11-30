@@ -1,0 +1,12 @@
+private/
+*.p12
+*.key
+*.csr
+*.srl
+*.crl
+private/
+*.p12
+*.key
+*.csr
+*.srl
+*.crl
